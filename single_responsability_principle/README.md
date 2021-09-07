@@ -1,5 +1,9 @@
 # **Single Responsability Principle (SRP)**
 
+<div align="center">
+  <img src="assets/SRP-FULL.png" width="600">
+</div>
+
 ## **Objetivo**
 
 Cada classe deve ter uma única responsabilidade.
@@ -10,4 +14,8 @@ Quando a classe tem somente uma única responsabilidade, os desenvolvedores só 
 
 ## **Como não fazer**
 
+[Clique aqui](https://github.com/edualb/solid/tree/main/single_responsability_principle/wrong)
+
 ## **Como fazer**
+
+[Clique aqui](https://github.com/edualb/solid/tree/main/single_responsability_principle/correct)
