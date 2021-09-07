@@ -1,5 +1,9 @@
 # **Open Closed Principle (OCP)**
 
+<div align="center">
+  <img src="assets/OCP-FULL.png" width="600">
+</div>
+
 ## **Objetivo**
 
 Entidades de software (classes, funções, módulos) devem estar abertas para extensões mas fechadas para modificação.

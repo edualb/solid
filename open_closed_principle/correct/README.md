@@ -1,7 +1,7 @@
 # **Como fazer OCP**
 
 <div align="center">
-  <img src="../assets/SRP-CORRECT.png" width="400">
+  <img src="../assets/OCP-CORRECT.png" width="400">
 </div>
 
 ## **Explicação**
