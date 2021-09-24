@@ -8,6 +8,6 @@ Esse projeto tem como objetivo apresentar os conceitos do S.O.L.I.D com imagens,
 
 - S -> [Single Responsability Principle (SRP)](https://github.com/edualb/solid/tree/main/single_responsability_principle)
 - O -> [Open Closed Principle (OCP)](https://github.com/edualb/solid/tree/main/open_closed_principle)
-- L -> Liskov Substitution Principle (LSP)
+- L -> [Liskov Substitution Principle (LSP)](https://github.com/edualb/solid/tree/main/liskov-substitution-principle)
 - I -> Interface Agregation Principle (IAP)
 - D -> Depency Inversion Principle (DIP)
