@@ -6,7 +6,7 @@
 
 ## **Objetivo**
 
-Esse é o princípio que as pessoas tem mais dificuldades de entender. Por isso, sua explicação será bem direta aqui e na Motivação e nos Exemplos (Como não fazer e Como fazer) terá os melhores detalhes. Em resumo o princípio diz que "Classes derivadas devem ser substituídas por suas classes bases".
+Esse é o princípio que as pessoas tem mais dificuldades de entender. Por isso, sua explicação será bem direta aqui e na Motivação e nos Exemplos (Como não fazer e Como fazer) terá os melhores detalhes. Em resumo o princípio diz que `Classes derivadas devem ser substituídas por suas classes bases`.
 
 ## **Motivação**
 
