@@ -20,8 +20,8 @@ Dessa forma, a gente consegue granularizar melhor as abstrações se aproximando
 
 ## **Como não fazer**
 
-[Clique aqui](https://github.com/edualb/solid/tree/main/open_closed_principle/wrong)
+[Clique aqui](https://github.com/edualb/solid/tree/main/liskov-substitution-principle/wrong)
 
 ## **Como fazer**
 
-[Clique aqui](https://github.com/edualb/solid/tree/main/open_closed_principle/correct)
+[Clique aqui](https://github.com/edualb/solid/tree/main/liskov-substitution-principle/correct)
